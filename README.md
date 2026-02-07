@@ -10,6 +10,7 @@ Data were collected from the World Bank database for the period 2018–2024. Mis
 - Data cleaning and preprocessing  
 - Aggregation of yearly data to country-level averages  
 - Logarithmic transformation for selected variables
+- Linear regression was performed to analyze the impact of various factors (GDP per capita, renewable energy consumption, energy intensity, urban population, and trade) on CO₂ emissions. Logarithmic transformations were applied to selected variables to improve model interpretability and fit.
 
 ## Results
 GDP per capita is a strong driver of CO₂ emissions: a 1% increase in GDP per capita leads to ~0.6% higher CO₂ emissions per capita.  
